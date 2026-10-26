@@ -1,0 +1,647 @@
+{
+  "title": "Daily X narrative digest — 2026-10-26",
+  "date": "2026-10-26",
+  "timezone": "America/Los_Angeles",
+  "updated": "2026-10-26T04:35:52-07:00",
+  "brand_title": "Aubric · X Virality Score",
+  "brand_handle": "@ankits0052",
+  "hits": [
+    {
+      "name": "Alex Hormozi",
+      "display_name": "Alex Hormozi",
+      "handle": "@AlexHormozi",
+      "views": 386017,
+      "views_label": "386.0K",
+      "likes": 15069,
+      "reposts": 1595,
+      "replies": 320,
+      "bookmarks": 3986,
+      "created_at": "2026-10-24T12:30:21Z",
+      "url": "https://x.com/AlexHormozi/status/2113971357054902284",
+      "status_url": "https://x.com/AlexHormozi/status/2113971357054902284",
+      "highlight": true,
+      "hook": "Raw grit monologue: three short brutal sentences, then a payoff turn ('that's when it starts to happen'). Highest bookmarks of the day (3,986).",
+      "text": "Everything is hard. Nothing works the first time. It all feels pointless. That’s when you realize you’re going to have to will it into existence with every ounce of your fucking soul. And that’s when it starts to happen.",
+      "rank": 1
+    },
+    {
+      "name": "Guillermo Rauch",
+      "display_name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "views": 275464,
+      "views_label": "275.5K",
+      "likes": 3104,
+      "reposts": 161,
+      "replies": 364,
+      "bookmarks": 835,
+      "created_at": "2026-10-24T20:03:39Z",
+      "url": "https://x.com/rauchg/status/2114085432749347086",
+      "status_url": "https://x.com/rauchg/status/2114085432749347086",
+      "highlight": true,
+      "hook": "Two-sided 'There'll be times...' structure (over-guide vs under-guide the AI) ending in a hiring signal: the #0 skill I look for. 835 bookmarks.",
+      "text": "There’ll be times where you over-guide the AI. It knows better than you and is more intelligent than you.\n\nThere’ll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context.\n\nHow well you manage this superpower is the #0 skill I look for.",
+      "rank": 2,
+      "draft_en": "There'll be times you over-review AI creative. A launch slips a week waiting on a manual legal pass a rules engine could clear in seconds.\n\nThere'll be times you under-review it. A synthetic voiceover ships with no AI disclosure, and Pennsylvania's AI ad law starts applying Dec 21.\n\nKnowing where that line sits is the #0 skill for marketing teams in 2026.\n\nWrite down the 5 rules that must never ship unchecked. Automate everything else.",
+      "video_tip": "30s talking head, split screen. Left half labeled OVER-REVIEW with a calendar flipping 7 days. Right half labeled UNDER-REVIEW with an ad going live and a red DISCLOSURE MISSING stamp. Finish center frame on a list of 5 never-ship rules."
+    },
+    {
+      "name": "Alex Hormozi",
+      "display_name": "Alex Hormozi",
+      "handle": "@AlexHormozi",
+      "views": 145483,
+      "views_label": "145.5K",
+      "likes": 6889,
+      "reposts": 615,
+      "replies": 286,
+      "bookmarks": 765,
+      "created_at": "2026-10-24T18:57:25Z",
+      "url": "https://x.com/AlexHormozi/status/2114068763578654823",
+      "status_url": "https://x.com/AlexHormozi/status/2114068763578654823",
+      "highlight": true,
+      "hook": "One-line aphorism reframing entrepreneurship as a trade: years of life for proof of which ideas were good.",
+      "text": "Entrepreneurship is trading years of your life to find out which of your ideas were good.",
+      "rank": 3
+    },
+    {
+      "name": "Aaron Levie",
+      "display_name": "Aaron Levie",
+      "handle": "@levie",
+      "views": 57526,
+      "views_label": "57.5K",
+      "likes": 266,
+      "reposts": 23,
+      "replies": 77,
+      "bookmarks": 209,
+      "created_at": "2026-10-25T16:18:55Z",
+      "url": "https://x.com/levie/status/2114391265655816315",
+      "status_url": "https://x.com/levie/status/2114391265655816315",
+      "highlight": true,
+      "hook": "Enterprise security reality check: fragmented risk surface, endless libraries to keep up with. High bookmark ratio (209 on 266 likes).",
+      "text": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve.\n\nThere’s a never ending set of libraries to keep up https://t.co/b2LG87U3Du",
+      "rank": 4
+    },
+    {
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 49747,
+      "views_label": "49.7K",
+      "likes": 553,
+      "reposts": 41,
+      "replies": 241,
+      "bookmarks": 29,
+      "created_at": "2026-10-25T18:44:06Z",
+      "url": "https://x.com/gregisenberg/status/2114427800828399649",
+      "status_url": "https://x.com/gregisenberg/status/2114427800828399649",
+      "highlight": true,
+      "hook": "'X is the new Y' meme format applied to agents: 'Sent from AI agent' is the new 'Sent from iPhone'. 241 replies, a reply magnet.",
+      "text": "“Sent from AI agent” is the new “Sent from iPhone”",
+      "rank": 5,
+      "draft_en": "\"Approved by AI\" is the new \"Reviewed by legal.\"\n\nExcept legal kept receipts.\n\nIf your AI approves 1,000 ad variants a day, every approve, fix, or block needs evidence attached: which rule, which frame, which line of copy, which platform policy.\n\nThat is the gate we build at Aubric.\n\nPull the last ad your AI tooling approved. Can you show the receipt?",
+      "video_tip": "15s vertical. Open on a phone mockup with an email footer reading \"Approved by AI\" in iOS grey. Smash cut to an Aubric verdict card showing APPROVE with three evidence lines (rule, frame timestamp, policy). End card: \"Receipts or it didn't happen.\""
+    },
+    {
+      "name": "Garry Tan",
+      "display_name": "Garry Tan",
+      "handle": "@garrytan",
+      "views": 36877,
+      "views_label": "36.9K",
+      "likes": 187,
+      "reposts": 8,
+      "replies": 33,
+      "bookmarks": 54,
+      "created_at": "2026-10-24T20:24:45Z",
+      "url": "https://x.com/garrytan/status/2114090740217499854",
+      "status_url": "https://x.com/garrytan/status/2114090740217499854",
+      "highlight": true,
+      "hook": "Product-update quote post with a one-line question hook ('What's new in Gstack?').",
+      "text": "What’s new in Gstack? https://t.co/RLLZyuDxNt",
+      "rank": 6
+    },
+    {
+      "name": "Guillermo Rauch",
+      "display_name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "views": 32639,
+      "views_label": "32.6K",
+      "likes": 401,
+      "reposts": 11,
+      "replies": 175,
+      "bookmarks": 114,
+      "created_at": "2026-10-25T01:19:09Z",
+      "url": "https://x.com/rauchg/status/2114164830403989880",
+      "status_url": "https://x.com/rauchg/status/2114164830403989880",
+      "highlight": true,
+      "hook": "Auditor vernacular from models (gate, evidence, culprit, durable, provenance, contract): engineering as forensics.",
+      "text": "I oddly love the models' engineering vernacular: gate, evidence, culprit, durable, provenance, contract…\n\nA lot of these stem from most engineering being debugging and understanding existing systems, where you take on the detective / auditor roles. You do forensics.\n\nI wonder",
+      "rank": 7
+    },
+    {
+      "name": "Andrew Chen",
+      "display_name": "Andrew Chen",
+      "handle": "@andrewchen",
+      "views": 32225,
+      "views_label": "32.2K",
+      "likes": 511,
+      "reposts": 33,
+      "replies": 50,
+      "bookmarks": 187,
+      "created_at": "2026-10-25T02:38:36Z",
+      "url": "https://x.com/andrewchen/status/2114184825443959158",
+      "status_url": "https://x.com/andrewchen/status/2114184825443959158",
+      "highlight": true,
+      "hook": "Three-word quote-post endorsement ('Bet on yourself.') riding a viral a16z founder message.",
+      "text": "Bet on yourself. https://t.co/ZKwzbpx5mw",
+      "rank": 8
+    },
+    {
+      "name": "Andrew Chen",
+      "display_name": "Andrew Chen",
+      "handle": "@andrewchen",
+      "views": 19100,
+      "views_label": "19.1K",
+      "likes": 310,
+      "reposts": 21,
+      "replies": 131,
+      "bookmarks": 119,
+      "created_at": "2026-10-26T04:07:37Z",
+      "url": "https://x.com/andrewchen/status/2114569613724025276",
+      "status_url": "https://x.com/andrewchen/status/2114569613724025276",
+      "highlight": true,
+      "hook": "Open list plus 'who else is on this list?' prompt: new founder archetypes unlocked post-AI. 131 replies.",
+      "text": "what are the new types of founders that might get unlocked in the post-AI era?\n\n- solo founders\n- non-technical founders\n- domain expert with no tech experience (ex: a dentist builds dental SaaS empire)\n- content creator whose new content is \"apps\"\n\n... who else is on this list?",
+      "rank": 9,
+      "draft_en": "New marketing jobs AI is about to create:\n\n- creative auditor (clears 1,000 variants before lunch)\n- brand rule engineer (turns a 40-page brand book into checks an agent can run)\n- AI disclosure lead (tracks state AI ad laws so nobody else has to)\n- provenance analyst (proves where every asset came from)\n\nWho else is on this list?",
+      "video_tip": "20s carousel-style video: one job title per card with a one-line job description, quick 2s cuts, final card asks \"Who else?\" in large type to pull replies. Pin a reply with Aubric's take on the creative auditor role."
+    },
+    {
+      "name": "Dickie Bush",
+      "display_name": "Dickie Bush",
+      "handle": "@dickiebush",
+      "views": 13861,
+      "views_label": "13.9K",
+      "likes": 122,
+      "reposts": 6,
+      "replies": 41,
+      "bookmarks": 37,
+      "created_at": "2026-10-24T23:48:01Z",
+      "url": "https://x.com/dickiebush/status/2114141894309523763",
+      "status_url": "https://x.com/dickiebush/status/2114141894309523763",
+      "highlight": true,
+      "hook": "Abundance vs scarcity money mindset contrast.",
+      "text": "Money flows to the person who sees it as abundant with plenty to go around for everyone (including their future self).\n\nAnd money avoids the person who sees it as scarce only looks out for their current self.",
+      "rank": 10
+    },
+    {
+      "name": "Dickie Bush",
+      "display_name": "Dickie Bush",
+      "handle": "@dickiebush",
+      "views": 13311,
+      "views_label": "13.3K",
+      "likes": 92,
+      "reposts": 4,
+      "replies": 40,
+      "bookmarks": 15,
+      "created_at": "2026-10-25T12:18:00Z",
+      "url": "https://x.com/dickiebush/status/2114330636680929681",
+      "status_url": "https://x.com/dickiebush/status/2114330636680929681",
+      "highlight": true,
+      "hook": "Personal routine claim (20 minutes of breathwork) with a single concrete number.",
+      "text": "20 minutes of intense morning breathwork is the most reliable way for me to be in a great mood all day.",
+      "rank": 11
+    },
+    {
+      "name": "Dickie Bush",
+      "display_name": "Dickie Bush",
+      "handle": "@dickiebush",
+      "views": 12437,
+      "views_label": "12.4K",
+      "likes": 90,
+      "reposts": 3,
+      "replies": 34,
+      "bookmarks": 22,
+      "created_at": "2026-10-24T15:49:01Z",
+      "url": "https://x.com/dickiebush/status/2114021351325364724",
+      "status_url": "https://x.com/dickiebush/status/2114021351325364724",
+      "highlight": true,
+      "hook": "Redefinition hook: happiness as a trainable skill, with a numbered 'because 1) 2)' justification.",
+      "text": "Happiness is the choice to maintain a positive mood during times that would derail the unhappy version of you.\n\nI like this definition because 1) anyone can do it and 2) it turns happiness into a trainable skill that you can practice at any time.",
+      "rank": 12
+    },
+    {
+      "name": "Dickie Bush",
+      "display_name": "Dickie Bush",
+      "handle": "@dickiebush",
+      "views": 11972,
+      "views_label": "12.0K",
+      "likes": 118,
+      "reposts": 5,
+      "replies": 66,
+      "bookmarks": 65,
+      "created_at": "2026-10-24T12:18:01Z",
+      "url": "https://x.com/dickiebush/status/2113968250283311524",
+      "status_url": "https://x.com/dickiebush/status/2113968250283311524",
+      "highlight": true,
+      "hook": "Content-system tip: 'Recently I've been...' prompt to generate 10 ideas.",
+      "text": "When I’m low on ideas, I write down one line:\n\nRecently I’ve been…\n\nThen I fill in the first 10 things that come to mind.\n\nFrom there, I turn each of them into short-form content, which sets the foundation for future newsletters depending on what people find interesting.",
+      "rank": 13
+    },
+    {
+      "name": "Dickie Bush",
+      "display_name": "Dickie Bush",
+      "handle": "@dickiebush",
+      "views": 8392,
+      "views_label": "8.4K",
+      "likes": 44,
+      "reposts": 3,
+      "replies": 29,
+      "bookmarks": 14,
+      "created_at": "2026-10-25T16:28:02Z",
+      "url": "https://x.com/dickiebush/status/2114393558530531678",
+      "status_url": "https://x.com/dickiebush/status/2114393558530531678",
+      "highlight": false,
+      "hook": "Bulleted newsletter format breakdown framed as a forcing function.",
+      "text": "Recently started writing a weekly update newsletter where I:\n\n- Answer reader questions\n- Share ideas I’ve been thinking about\n- Discuss my current business priorities\n- Recommend media I’ve been enjoying\n- Recap my growth stats across platforms\n\nA great forcing function for me",
+      "rank": 14
+    }
+  ],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [
+    "Short aphorism / grit one-liner (Hormozi: 386K and 145K views)",
+    "Two-sided 'There'll be times you over-/under-guide the AI' + 'the #0 skill I look for' (rauchg: 275K, 835 bookmarks)",
+    "'X is the new Y' agent meme: 'Sent from AI agent' is the new 'Sent from iPhone' (gregisenberg: 241 replies)",
+    "Open list + 'who else is on this list?' reply bait (andrewchen: 131 replies)",
+    "Auditor vernacular: gate, evidence, culprit, provenance, contract (rauchg)",
+    "Fragmented enterprise risk surface / security reality (levie, high bookmark ratio)",
+    "Bet on yourself / founder grit (andrewchen quoting bhorowitz)",
+    "Post-AI founder archetypes: solo, non-technical, domain-expert founders"
+  ],
+  "no_hits": [
+    {
+      "handle": "@sama",
+      "reason": "No original post (non-reply, non-repost) in the last 48h window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@karpathy",
+      "reason": "No original post (non-reply, non-repost) in the last 48h window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@ylecun",
+      "reason": "No original post (non-reply, non-repost) in the last 48h window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@dharmesh",
+      "reason": "No original post (non-reply, non-repost) in the last 48h window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@OfficialLoganK",
+      "reason": "No original post (non-reply, non-repost) in the last 48h window.",
+      "max_views": 0
+    }
+  ],
+  "virals_narrative": "The last 48 hours were less about new launches and more about format. Alex Hormozi's grit one-liners led the watchlist (386K and 145K views), Guillermo Rauch's two-sided take on over-guiding vs under-guiding AI pulled 275K views and 835 bookmarks, and Greg Isenberg's 'Sent from AI agent is the new Sent from iPhone' and Andrew Chen's open founder list drove the most replies per view. Security stayed in the background (Aaron Levie on the fragmented enterprise risk surface) alongside auditor vocabulary like gate, evidence, and provenance. For Aubric, the play is to borrow these formats (the meme swap, the two-sided skill framing, the open list) and point them at AI creative verification and the Dec 21 Pennsylvania AI ad disclosure date.",
+  "narrative_synthesis": "The last 48 hours were less about new launches and more about format. Alex Hormozi's grit one-liners led the watchlist (386K and 145K views), Guillermo Rauch's two-sided take on over-guiding vs under-guiding AI pulled 275K views and 835 bookmarks, and Greg Isenberg's 'Sent from AI agent is the new Sent from iPhone' and Andrew Chen's open founder list drove the most replies per view. Security stayed in the background (Aaron Levie on the fragmented enterprise risk surface) alongside auditor vocabulary like gate, evidence, and provenance. For Aubric, the play is to borrow these formats (the meme swap, the two-sided skill framing, the open list) and point them at AI creative verification and the Dec 21 Pennsylvania AI ad disclosure date.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 14,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-10-25",
+    "hits_count": 13,
+    "total_views": 3948401,
+    "x_score": 89
+  },
+  "leaderboards": {
+    "as_of": "2026-10-26",
+    "tracking_start": "2026-10-19",
+    "days_included": [
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25",
+      "2026-10-26"
+    ],
+    "month_days_included": [
+      "2026-10-25",
+      "2026-10-26"
+    ],
+    "week": {
+      "label": "Rolling week · Oct 20–Oct 26",
+      "range": [
+        "2026-10-20",
+        "2026-10-26"
+      ],
+      "entries": [
+        {
+          "handle": "@sama",
+          "name": "Sam Altman",
+          "hits": 1,
+          "days": 1,
+          "views": 1385013,
+          "best": 1385013,
+          "best_url": "https://x.com/sama/status/2112652656602923366"
+        },
+        {
+          "handle": "@AlexHormozi",
+          "name": "Alex Hormozi",
+          "hits": 3,
+          "days": 2,
+          "views": 900502,
+          "best": 386017,
+          "best_url": "https://x.com/AlexHormozi/status/2113971357054902284"
+        },
+        {
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 1,
+          "days": 1,
+          "views": 834286,
+          "best": 834286,
+          "best_url": "https://x.com/OfficialLoganK/status/2112767157746688480"
+        },
+        {
+          "handle": "@rauchg",
+          "name": "Guillermo Rauch",
+          "hits": 4,
+          "days": 2,
+          "views": 813926,
+          "best": 275464,
+          "best_url": "https://x.com/rauchg/status/2114085432749347086"
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 2,
+          "days": 2,
+          "views": 514146,
+          "best": 464399,
+          "best_url": "https://x.com/gregisenberg/status/2113721373482987970"
+        },
+        {
+          "handle": "@garrytan",
+          "name": "Garry Tan",
+          "hits": 3,
+          "days": 2,
+          "views": 207188,
+          "best": 112975,
+          "best_url": "https://x.com/garrytan/status/2113143993026617832"
+        },
+        {
+          "handle": "@levie",
+          "name": "Aaron Levie",
+          "hits": 3,
+          "days": 2,
+          "views": 206002,
+          "best": 77007,
+          "best_url": "https://x.com/levie/status/2113499900399034689"
+        },
+        {
+          "handle": "@andrewchen",
+          "name": "Andrew Chen",
+          "hits": 3,
+          "days": 2,
+          "views": 83797,
+          "best": 32472,
+          "best_url": "https://x.com/andrewchen/status/2112257525240447153"
+        },
+        {
+          "handle": "@dickiebush",
+          "name": "Dickie Bush",
+          "hits": 6,
+          "days": 2,
+          "views": 76469,
+          "best": 16496,
+          "best_url": "https://x.com/dickiebush/status/2113290343282037233"
+        },
+        {
+          "handle": "@dharmesh",
+          "name": "dharmesh",
+          "hits": 1,
+          "days": 1,
+          "views": 22123,
+          "best": 22123,
+          "best_url": "https://x.com/dharmesh/status/2113362276443136383"
+        }
+      ]
+    },
+    "month": {
+      "label": "October 2026 · from Oct 25",
+      "range": [
+        "2026-10-25",
+        "2026-10-26"
+      ],
+      "entries": [
+        {
+          "handle": "@sama",
+          "name": "Sam Altman",
+          "hits": 1,
+          "days": 1,
+          "views": 1385013,
+          "best": 1385013,
+          "best_url": "https://x.com/sama/status/2112652656602923366"
+        },
+        {
+          "handle": "@AlexHormozi",
+          "name": "Alex Hormozi",
+          "hits": 3,
+          "days": 2,
+          "views": 900502,
+          "best": 386017,
+          "best_url": "https://x.com/AlexHormozi/status/2113971357054902284"
+        },
+        {
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 1,
+          "days": 1,
+          "views": 834286,
+          "best": 834286,
+          "best_url": "https://x.com/OfficialLoganK/status/2112767157746688480"
+        },
+        {
+          "handle": "@rauchg",
+          "name": "Guillermo Rauch",
+          "hits": 4,
+          "days": 2,
+          "views": 813926,
+          "best": 275464,
+          "best_url": "https://x.com/rauchg/status/2114085432749347086"
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 2,
+          "days": 2,
+          "views": 514146,
+          "best": 464399,
+          "best_url": "https://x.com/gregisenberg/status/2113721373482987970"
+        },
+        {
+          "handle": "@garrytan",
+          "name": "Garry Tan",
+          "hits": 3,
+          "days": 2,
+          "views": 207188,
+          "best": 112975,
+          "best_url": "https://x.com/garrytan/status/2113143993026617832"
+        },
+        {
+          "handle": "@levie",
+          "name": "Aaron Levie",
+          "hits": 3,
+          "days": 2,
+          "views": 206002,
+          "best": 77007,
+          "best_url": "https://x.com/levie/status/2113499900399034689"
+        },
+        {
+          "handle": "@andrewchen",
+          "name": "Andrew Chen",
+          "hits": 3,
+          "days": 2,
+          "views": 83797,
+          "best": 32472,
+          "best_url": "https://x.com/andrewchen/status/2112257525240447153"
+        },
+        {
+          "handle": "@dickiebush",
+          "name": "Dickie Bush",
+          "hits": 6,
+          "days": 2,
+          "views": 76469,
+          "best": 16496,
+          "best_url": "https://x.com/dickiebush/status/2113290343282037233"
+        },
+        {
+          "handle": "@dharmesh",
+          "name": "dharmesh",
+          "hits": 1,
+          "days": 1,
+          "views": 22123,
+          "best": 22123,
+          "best_url": "https://x.com/dharmesh/status/2113362276443136383"
+        }
+      ]
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026"
+  },
+  "operator": {
+    "handle": "@ankits0052",
+    "name": "Ankit Shah · CEO @ Aubric",
+    "profile_url": "https://x.com/ankits0052"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [
+    {
+      "handle": "@AlexHormozi",
+      "name": "Alex Hormozi",
+      "views": 386017,
+      "total_views": 531500,
+      "hit": true
+    },
+    {
+      "handle": "@rauchg",
+      "name": "Guillermo Rauch",
+      "views": 275464,
+      "total_views": 308103,
+      "hit": true
+    },
+    {
+      "handle": "@levie",
+      "name": "Aaron Levie",
+      "views": 57526,
+      "total_views": 57526,
+      "hit": true
+    },
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 49747,
+      "total_views": 49747,
+      "hit": true
+    },
+    {
+      "handle": "@garrytan",
+      "name": "Garry Tan",
+      "views": 36877,
+      "total_views": 36877,
+      "hit": true
+    },
+    {
+      "handle": "@andrewchen",
+      "name": "Andrew Chen",
+      "views": 32225,
+      "total_views": 51325,
+      "hit": true
+    },
+    {
+      "handle": "@dickiebush",
+      "name": "Dickie Bush",
+      "views": 13861,
+      "total_views": 59973,
+      "hit": true
+    },
+    {
+      "handle": "@ankits0052",
+      "name": "Ankit Shah",
+      "views": 127,
+      "total_views": 539,
+      "hit": false
+    }
+  ],
+  "you_rank": {
+    "best_views": 127,
+    "total_views": 539,
+    "best_url": "https://x.com/ankits0052/status/2114512044334715097",
+    "latest_url": "https://x.com/ankits0052/status/2114574861200953482",
+    "rank_among_watchlist": 8,
+    "total_accounts": 8,
+    "vs_5k": "below",
+    "vs_10k": "below",
+    "note": "5 originals in the last 48h, best at 127 views. Three fresh drafts below ride today's top formats."
+  },
+  "drafts": [
+    {
+      "angle": "'X is the new Y' (rides @gregisenberg)",
+      "for": "2114427800828399649",
+      "draft_en": "\"Approved by AI\" is the new \"Reviewed by legal.\"\n\nExcept legal kept receipts.\n\nIf your AI approves 1,000 ad variants a day, every approve, fix, or block needs evidence attached: which rule, which frame, which line of copy, which platform policy.\n\nThat is the gate we build at Aubric.\n\nPull the last ad your AI tooling approved. Can you show the receipt?",
+      "video_tip": "15s vertical. Open on a phone mockup with an email footer reading \"Approved by AI\" in iOS grey. Smash cut to an Aubric verdict card showing APPROVE with three evidence lines (rule, frame timestamp, policy). End card: \"Receipts or it didn't happen.\""
+    },
+    {
+      "angle": "Two-sided 'There'll be times...' (rides @rauchg)",
+      "for": "2114085432749347086",
+      "draft_en": "There'll be times you over-review AI creative. A launch slips a week waiting on a manual legal pass a rules engine could clear in seconds.\n\nThere'll be times you under-review it. A synthetic voiceover ships with no AI disclosure, and Pennsylvania's AI ad law starts applying Dec 21.\n\nKnowing where that line sits is the #0 skill for marketing teams in 2026.\n\nWrite down the 5 rules that must never ship unchecked. Automate everything else.",
+      "video_tip": "30s talking head, split screen. Left half labeled OVER-REVIEW with a calendar flipping 7 days. Right half labeled UNDER-REVIEW with an ad going live and a red DISCLOSURE MISSING stamp. Finish center frame on a list of 5 never-ship rules."
+    },
+    {
+      "angle": "Open list + 'who else is on this list?' (rides @andrewchen)",
+      "for": "2114569613724025276",
+      "draft_en": "New marketing jobs AI is about to create:\n\n- creative auditor (clears 1,000 variants before lunch)\n- brand rule engineer (turns a 40-page brand book into checks an agent can run)\n- AI disclosure lead (tracks state AI ad laws so nobody else has to)\n- provenance analyst (proves where every asset came from)\n\nWho else is on this list?",
+      "video_tip": "20s carousel-style video: one job title per card with a one-line job description, quick 2s cuts, final card asks \"Who else?\" in large type to pull replies. Pin a reply with Aubric's take on the creative auditor role."
+    }
+  ]
+}
