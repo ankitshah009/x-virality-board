@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest — 2026-11-27",
   "date": "2026-11-27",
   "timezone": "America/Los_Angeles",
-  "updated": "2026-11-27T04:27:10-08:00",
+  "updated": "2026-11-27T04:27:26-08:00",
   "brand_title": "Aubric · X Virality Score",
   "brand_handle": "@ankits0052",
   "hits": [
@@ -521,16 +521,16 @@
     "total_views": 5600776
   },
   "leaderboards": {
-    "as_of": "2026-11-26",
+    "as_of": "2026-11-27",
     "tracking_start": "2026-10-19",
     "days_included": [
-      "2026-11-20",
       "2026-11-21",
       "2026-11-22",
       "2026-11-23",
       "2026-11-24",
       "2026-11-25",
-      "2026-11-26"
+      "2026-11-26",
+      "2026-11-27"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -558,57 +558,67 @@
       "2026-11-23",
       "2026-11-24",
       "2026-11-25",
-      "2026-11-26"
+      "2026-11-26",
+      "2026-11-27"
     ],
     "week": {
-      "label": "Rolling week · Nov 20–Nov 26",
+      "label": "Rolling week · Nov 21–Nov 27",
       "range": [
-        "2026-11-20",
-        "2026-11-26"
+        "2026-11-21",
+        "2026-11-27"
       ],
       "entries": [
         {
           "handle": "@sama",
           "name": "Sam Altman",
-          "hits": 12,
+          "hits": 15,
           "days": 5,
-          "views": 14807693,
+          "views": 18667807,
           "best": 3744518,
           "best_url": "https://x.com/sama/status/2124887162206495228"
         },
         {
-          "handle": "@OfficialLoganK",
-          "name": "Logan Kilpatrick",
-          "hits": 16,
-          "days": 7,
-          "views": 4596003,
-          "best": 1345663,
-          "best_url": "https://x.com/OfficialLoganK/status/2123167791922741362"
-        },
-        {
           "handle": "@gregisenberg",
           "name": "GREG ISENBERG",
-          "hits": 26,
+          "hits": 28,
           "days": 7,
-          "views": 3510158,
+          "views": 3510332,
           "best": 1293846,
           "best_url": "https://x.com/gregisenberg/status/2123906584531304944"
+        },
+        {
+          "handle": "@karpathy",
+          "name": "Andrej Karpathy",
+          "hits": 2,
+          "days": 2,
+          "views": 3470451,
+          "best": 2496447,
+          "best_url": "https://x.com/karpathy/status/2125779541952246039"
+        },
+        {
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 14,
+          "days": 7,
+          "views": 3189231,
+          "best": 528750,
+          "best_url": "https://x.com/OfficialLoganK/status/2125640447305420950"
         },
         {
           "handle": "@garrytan",
           "name": "Garry Tan",
           "hits": 19,
           "days": 7,
-          "views": 2735234,
+          "views": 3152054,
           "best": 708803,
           "best_url": "https://x.com/garrytan/status/2125239920545366347"
         },
         {
           "handle": "@rauchg",
           "name": "Guillermo Rauch",
-          "hits": 45,
+          "hits": 39,
           "days": 7,
-          "views": 2685509,
+          "views": 2043741,
           "best": 168525,
           "best_url": "https://x.com/rauchg/status/2123438391090147775"
         },
@@ -617,7 +627,7 @@
           "name": "Aaron Levie",
           "hits": 16,
           "days": 7,
-          "views": 1597831,
+          "views": 1637882,
           "best": 289692,
           "best_url": "https://x.com/levie/status/2123792233535332448"
         },
@@ -626,26 +636,17 @@
           "name": "Alex Hormozi",
           "hits": 9,
           "days": 6,
-          "views": 1496166,
+          "views": 1396689,
           "best": 417783,
           "best_url": "https://x.com/AlexHormozi/status/2123551568813531408"
         },
         {
-          "handle": "@karpathy",
-          "name": "Andrej Karpathy",
-          "hits": 1,
-          "days": 1,
-          "views": 974004,
-          "best": 974004,
-          "best_url": "https://x.com/karpathy/status/2125779541952246039"
-        },
-        {
           "handle": "@dickiebush",
           "name": "Dickie Bush",
-          "hits": 38,
+          "hits": 34,
           "days": 7,
-          "views": 417779,
-          "best": 43835,
+          "views": 424174,
+          "best": 47095,
           "best_url": "https://x.com/dickiebush/status/2125574425688854787"
         },
         {
@@ -660,9 +661,9 @@
         {
           "handle": "@dharmesh",
           "name": "dharmesh",
-          "hits": 9,
+          "hits": 10,
           "days": 7,
-          "views": 150396,
+          "views": 184319,
           "best": 27290,
           "best_url": "https://x.com/dharmesh/status/2124013562880225328"
         }
@@ -672,96 +673,96 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-26"
+        "2026-11-27"
       ],
       "entries": [
         {
           "handle": "@sama",
           "name": "Sam Altman",
-          "hits": 18,
-          "days": 10,
-          "views": 43019794,
+          "hits": 22,
+          "days": 11,
+          "views": 47494242,
           "best": 10433969,
           "best_url": "https://x.com/sama/status/2117794005165748448"
         },
         {
           "handle": "@OfficialLoganK",
           "name": "Logan Kilpatrick",
-          "hits": 43,
-          "days": 19,
-          "views": 20869045,
+          "hits": 45,
+          "days": 20,
+          "views": 21796322,
           "best": 2812317,
           "best_url": "https://x.com/OfficialLoganK/status/2120940951292268640"
         },
         {
           "handle": "@gregisenberg",
           "name": "GREG ISENBERG",
-          "hits": 143,
-          "days": 26,
-          "views": 17156412,
+          "hits": 148,
+          "days": 27,
+          "views": 17384622,
           "best": 2064894,
           "best_url": "https://x.com/gregisenberg/status/2120594418231398677"
         },
         {
+          "handle": "@karpathy",
+          "name": "Andrej Karpathy",
+          "hits": 6,
+          "days": 6,
+          "views": 13374457,
+          "best": 4688485,
+          "best_url": "https://x.com/karpathy/status/2116957135661945283"
+        },
+        {
           "handle": "@rauchg",
           "name": "Guillermo Rauch",
-          "hits": 171,
-          "days": 26,
-          "views": 11790956,
+          "hits": 174,
+          "days": 27,
+          "views": 11890774,
           "best": 384765,
           "best_url": "https://x.com/rauchg/status/2122396034186014919"
         },
         {
           "handle": "@levie",
           "name": "Aaron Levie",
-          "hits": 51,
-          "days": 25,
-          "views": 11374599,
+          "hits": 53,
+          "days": 26,
+          "views": 11525500,
           "best": 3992959,
           "best_url": "https://x.com/levie/status/2118429008711102831"
         },
         {
-          "handle": "@karpathy",
-          "name": "Andrej Karpathy",
-          "hits": 5,
-          "days": 5,
-          "views": 10878010,
-          "best": 4688485,
-          "best_url": "https://x.com/karpathy/status/2116957135661945283"
-        },
-        {
           "handle": "@garrytan",
           "name": "Garry Tan",
-          "hits": 132,
-          "days": 26,
-          "views": 10004311,
+          "hits": 134,
+          "days": 27,
+          "views": 10495602,
           "best": 777858,
           "best_url": "https://x.com/garrytan/status/2121462697787342932"
         },
         {
           "handle": "@AlexHormozi",
           "name": "Alex Hormozi",
-          "hits": 46,
-          "days": 20,
-          "views": 6191467,
+          "hits": 47,
+          "days": 21,
+          "views": 6346015,
           "best": 417783,
           "best_url": "https://x.com/AlexHormozi/status/2123551568813531408"
         },
         {
           "handle": "@dharmesh",
           "name": "dharmesh",
-          "hits": 43,
-          "days": 20,
-          "views": 4908023,
+          "hits": 45,
+          "days": 21,
+          "views": 4958238,
           "best": 1931789,
           "best_url": "https://x.com/dharmesh/status/2120544621335859544"
         },
         {
           "handle": "@dickiebush",
           "name": "Dickie Bush",
-          "hits": 144,
-          "days": 26,
-          "views": 1895722,
+          "hits": 146,
+          "days": 27,
+          "views": 1960778,
           "best": 113760,
           "best_url": "https://x.com/dickiebush/status/2121762609296744569"
         },
